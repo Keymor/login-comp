@@ -15,7 +15,7 @@ export default function page() {
                 <p>3</p>
                 <p>4</p>
             </div>
-            <Buttons text='Log Out'></Buttons>
+            <Buttons text='Log Out' onClickFun={() => { }}></Buttons>
         </Main>
     )
 }
